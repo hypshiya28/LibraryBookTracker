@@ -1,5 +1,4 @@
-# LibraryBookTracker
-
+# Library Book Tracker
 
 A Java console-based application developed to manage library books efficiently.
 
